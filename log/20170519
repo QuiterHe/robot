@@ -1,0 +1,40 @@
+Failed at pull https://toutiao.io/subjects/856 msg: Client error: `GET https://toutiao.io/subjects/856` resulted in a `404 Not Found` response2017-05-19 05:09:55
+Failed at pull https://toutiao.io/subjects/1059 msg: Client error: `GET https://toutiao.io/subjects/1059` resulted in a `404 Not Found` response2017-05-19 05:10:33
+Failed at pull https://toutiao.io/subjects/1081 msg: Client error: `GET https://toutiao.io/subjects/1081` resulted in a `404 Not Found` response2017-05-19 05:10:36
+Failed at pull https://toutiao.io/subjects/1890 msg: Client error: `GET https://toutiao.io/subjects/1890` resulted in a `404 Not Found` response2017-05-19 05:12:55
+Failed at pull https://toutiao.io/subjects/4381 msg: Client error: `GET https://toutiao.io/subjects/4381` resulted in a `404 Not Found` response2017-05-19 05:19:59
+Failed at pull https://toutiao.io/subjects/4715 msg: Client error: `GET https://toutiao.io/subjects/4715` resulted in a `404 Not Found` response2017-05-19 05:20:56
+Failed at pull https://toutiao.io/subjects/5149 msg: Client error: `GET https://toutiao.io/subjects/5149` resulted in a `404 Not Found` response2017-05-19 05:22:25
+Failed at pull https://toutiao.io/subjects/5412 msg: Client error: `GET https://toutiao.io/subjects/5412` resulted in a `404 Not Found` response2017-05-19 05:23:18
+Failed at pull https://toutiao.io/subjects/8233?page=2 msg: cURL error 56: SSLRead() return error -9806 (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)2017-05-19 06:30:53
+Failed at pull https://toutiao.io/subjects/856 msg: Client error: `GET https://toutiao.io/subjects/856` resulted in a `404 Not Found` response2017-05-19 08:02:03
+Failed at pull https://toutiao.io/subjects/1059 msg: Client error: `GET https://toutiao.io/subjects/1059` resulted in a `404 Not Found` response2017-05-19 08:02:45
+Failed at pull https://toutiao.io/subjects/1081 msg: Client error: `GET https://toutiao.io/subjects/1081` resulted in a `404 Not Found` response2017-05-19 08:02:48
+Failed at pull https://toutiao.io/subjects/856 msg: Client error: `GET https://toutiao.io/subjects/856` resulted in a `404 Not Found` response2017-05-19 08:25:18
+Failed at pull https://toutiao.io/subjects/1059 msg: Client error: `GET https://toutiao.io/subjects/1059` resulted in a `404 Not Found` response2017-05-19 08:26:09
+Failed at pull https://toutiao.io/subjects/1081 msg: Client error: `GET https://toutiao.io/subjects/1081` resulted in a `404 Not Found` response2017-05-19 08:26:12
+Failed at pull https://toutiao.io/subjects/1890 msg: Client error: `GET https://toutiao.io/subjects/1890` resulted in a `404 Not Found` response2017-05-19 08:28:58
+Failed at pull https://toutiao.io/subjects/4381 msg: Client error: `GET https://toutiao.io/subjects/4381` resulted in a `404 Not Found` response2017-05-19 08:37:38
+Failed at pull https://toutiao.io/subjects/4715 msg: Client error: `GET https://toutiao.io/subjects/4715` resulted in a `404 Not Found` response2017-05-19 08:38:49
+Failed at pull https://toutiao.io/subjects/5149 msg: Client error: `GET https://toutiao.io/subjects/5149` resulted in a `404 Not Found` response2017-05-19 08:40:12
+Failed at pull https://toutiao.io/subjects/5412 msg: Client error: `GET https://toutiao.io/subjects/5412` resulted in a `404 Not Found` response2017-05-19 08:41:05
+Failed at pull https://toutiao.io/subjects/10213 msg: Client error: `GET https://toutiao.io/subjects/10213` resulted in a `404 Not Found` response2017-05-19 08:55:37
+Failed at pull https://toutiao.io/subjects/11681?page=2 msg: cURL error 7: Failed to connect to toutiao.io port 443: Operation timed out (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)2017-05-19 09:02:25
+Failed at pull https://toutiao.io/subjects/11971 msg: Client error: `GET https://toutiao.io/subjects/11971` resulted in a `404 Not Found` response2017-05-19 16:15:13
+Failed at pull https://toutiao.io/subjects/12587 msg: Client error: `GET https://toutiao.io/subjects/12587` resulted in a `404 Not Found` response2017-05-19 16:17:43
+Failed at pull https://toutiao.io/subjects/12825 msg: Client error: `GET https://toutiao.io/subjects/12825` resulted in a `404 Not Found` response2017-05-19 16:18:49
+Failed at pull https://toutiao.io/subjects/15474 msg: Client error: `GET https://toutiao.io/subjects/15474` resulted in a `404 Not Found` response2017-05-19 16:36:32
+Failed at pull https://toutiao.io/subjects/17390 msg: Client error: `GET https://toutiao.io/subjects/17390` resulted in a `404 Not Found` response2017-05-19 16:58:04
+Failed at pull https://toutiao.io/subjects/17392 msg: Client error: `GET https://toutiao.io/subjects/17392` resulted in a `404 Not Found` response2017-05-19 16:58:05
+Failed at pull https://toutiao.io/subjects/17462 msg: Client error: `GET https://toutiao.io/subjects/17462` resulted in a `404 Not Found` response2017-05-19 16:58:56
+Failed at pull https://toutiao.io/subjects/17463 msg: Client error: `GET https://toutiao.io/subjects/17463` resulted in a `404 Not Found` response2017-05-19 16:58:56
+Failed at pull https://toutiao.io/subjects/18926 msg: Client error: `GET https://toutiao.io/subjects/18926` resulted in a `404 Not Found` response2017-05-19 17:08:32
+Failed at pull https://toutiao.io/subjects/21303 msg: Client error: `GET https://toutiao.io/subjects/21303` resulted in a `404 Not Found` response2017-05-19 17:22:30
+Failed at pull https://toutiao.io/subjects/22150 msg: Client error: `GET https://toutiao.io/subjects/22150` resulted in a `404 Not Found` response2017-05-19 17:47:58
+Failed at pull https://toutiao.io/subjects/22333 msg: Client error: `GET https://toutiao.io/subjects/22333` resulted in a `404 Not Found` response2017-05-19 17:49:09
+Failed at pull https://toutiao.io/subjects/222575 msg: Client error: `GET https://toutiao.io/subjects/222575` resulted in a `404 Not Found` response2017-05-19 17:50:41
+Failed at pull https://toutiao.io/subjects/222576 msg: Client error: `GET https://toutiao.io/subjects/222576` resulted in a `404 Not Found` response2017-05-19 17:50:42
+Failed at pull https://toutiao.io/subjects/223359 msg: Client error: `GET https://toutiao.io/subjects/223359` resulted in a `404 Not Found` response2017-05-19 17:54:42
+Failed at pull https://toutiao.io/subjects/224924 msg: Client error: `GET https://toutiao.io/subjects/224924` resulted in a `404 Not Found` response2017-05-19 18:04:35
+Failed at pull https://toutiao.io/subjects/225222?page=2 msg: cURL error 56: SSLRead() return error -9806 (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)2017-05-19 18:06:01
+Failed at pull https://toutiao.io/subjects/232062?page=2 msg: cURL error 6: Could not resolve host: toutiao.io (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)2017-05-19 18:33:36
